@@ -10,3 +10,8 @@ color: red;
 font-size: 64px;
 text-align: center
 }
+
+img {
+margin:auto;
+display: block
+}
